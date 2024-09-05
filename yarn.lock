@@ -8216,7 +8216,7 @@ __metadata:
     "@types/webpack-bundle-analyzer": "npm:4.6.3"
     "@types/webpack-hot-middleware": "npm:2.25.9"
     "@vitejs/plugin-react-swc": "npm:3.5.0"
-    axios: "npm:1.7.4"
+    axios: "npm:1.7.5"
     bcryptjs: "npm:2.4.3"
     boxen: "npm:5.1.2"
     browserslist: "npm:^4.22.2"
@@ -8327,7 +8327,7 @@ __metadata:
     "@types/cli-progress": "npm:3.11.5"
     "@types/eventsource": "npm:1.1.15"
     "@types/lodash": "npm:^4.14.191"
-    axios: "npm:1.7.4"
+    axios: "npm:1.7.5"
     chalk: "npm:4.1.2"
     cli-progress: "npm:3.12.0"
     commander: "npm:8.3.0"
@@ -8371,7 +8371,7 @@ __metadata:
     "@testing-library/user-event": "npm:14.4.3"
     "@types/koa": "npm:2.13.4"
     "@types/styled-components": "npm:5.1.32"
-    axios: "npm:1.7.4"
+    axios: "npm:1.7.5"
     date-fns: "npm:2.30.0"
     date-fns-tz: "npm:2.0.0"
     formik: "npm:2.4.0"
@@ -8573,7 +8573,7 @@ __metadata:
     "@strapi/utils": "npm:4.25.10"
     "@testing-library/react": "npm:14.0.0"
     "@testing-library/user-event": "npm:14.4.3"
-    axios: "npm:1.7.4"
+    axios: "npm:1.7.5"
     cross-env: "npm:^7.0.3"
     date-fns: "npm:2.30.0"
     eslint-config-custom: "npm:4.25.10"
@@ -8926,7 +8926,7 @@ __metadata:
     "@strapi/utils": "npm:4.25.10"
     "@testing-library/react": "npm:14.0.0"
     "@testing-library/user-event": "npm:14.4.3"
-    axios: "npm:1.7.4"
+    axios: "npm:1.7.5"
     formik: "npm:2.4.0"
     immer: "npm:9.0.19"
     lodash: "npm:4.17.21"
@@ -8987,7 +8987,7 @@ __metadata:
     "@testing-library/dom": "npm:9.2.0"
     "@testing-library/react": "npm:14.0.0"
     "@testing-library/user-event": "npm:14.4.3"
-    axios: "npm:1.7.4"
+    axios: "npm:1.7.5"
     byte-size: "npm:7.0.1"
     cropperjs: "npm:1.6.0"
     date-fns: "npm:2.30.0"
@@ -12645,14 +12645,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"axios@npm:1.7.4":
-  version: 1.7.4
-  resolution: "axios@npm:1.7.4"
+"axios@npm:1.7.5":
+  version: 1.7.5
+  resolution: "axios@npm:1.7.5"
   dependencies:
     follow-redirects: "npm:^1.15.6"
     form-data: "npm:^4.0.0"
     proxy-from-env: "npm:^1.1.0"
-  checksum: 10c0/5ea1a93140ca1d49db25ef8e1bd8cfc59da6f9220159a944168860ad15a2743ea21c5df2967795acb15cbe81362f5b157fdebbea39d53117ca27658bab9f7f17
+  checksum: 10c0/1d5daeb28b3d1bb2a7b9f0743433c4bfbeaddc15461e50ebde487eec6c009af2515749d5261096dd430c90cd891bd310bcba5ec3967bae2033c4a307f58a6ad3
   languageName: node
   linkType: hard
 
