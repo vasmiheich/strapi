@@ -112,7 +112,7 @@
   },
   "dependencies": {
     "@koa/cors": "5.0.0",
-    "@koa/router": "10.1.1",
+    "@koa/router": "13.0.1",
     "@strapi/admin": "4.25.10",
     "@strapi/cloud-cli": "4.25.10",
     "@strapi/content-releases": "4.25.10",
