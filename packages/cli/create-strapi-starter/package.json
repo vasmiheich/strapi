@@ -43,7 +43,7 @@
     "watch": "pack-up watch"
   },
   "dependencies": {
-    "@strapi/generate-new": "4.25.10",
+    "@strapi/generate-new": "4.0.0",
     "chalk": "4.1.2",
     "ci-info": "3.8.0",
     "commander": "8.3.0",
