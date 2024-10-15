@@ -56,7 +56,7 @@
   "dependencies": {
     "@reduxjs/toolkit": "1.9.7",
     "@strapi/design-system": "1.19.0",
-    "@strapi/helper-plugin": "4.25.10",
+    "@strapi/helper-plugin": "4.0.0",
     "@strapi/icons": "1.19.0",
     "@strapi/types": "workspace:*",
     "@strapi/utils": "4.25.10",
