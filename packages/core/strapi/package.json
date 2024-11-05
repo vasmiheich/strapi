@@ -119,7 +119,7 @@
     "@strapi/data-transfer": "4.25.10",
     "@strapi/database": "4.25.10",
     "@strapi/generate-new": "4.25.10",
-    "@strapi/generators": "4.25.10",
+    "@strapi/generators": "5.1.1",
     "@strapi/logger": "4.25.10",
     "@strapi/pack-up": "4.23.0",
     "@strapi/permissions": "4.25.10",
