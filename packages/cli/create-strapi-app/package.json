@@ -43,7 +43,7 @@
     "watch": "pack-up watch"
   },
   "dependencies": {
-    "@strapi/cloud-cli": "4.25.10",
+    "@strapi/cloud-cli": "0.1.0",
     "@strapi/generate-new": "4.25.10",
     "chalk": "4.1.2",
     "commander": "8.3.0",
