@@ -47,7 +47,7 @@
     "@strapi/generate-new": "4.25.10",
     "chalk": "4.1.2",
     "commander": "8.3.0",
-    "inquirer": "8.2.5"
+    "inquirer": "10.0.0"
   },
   "devDependencies": {
     "@strapi/pack-up": "4.23.0",
